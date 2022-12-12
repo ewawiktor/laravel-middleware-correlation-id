@@ -1,5 +1,5 @@
 {
-    "name": "ajaaleixo/laravel-middleware-correlation-id",
+    "name": "ewawiktor/laravel-middleware-correlation-id",
     "description": "Laravel Package to use a Correlation ID Middleware",
     "keywords": [
         "laravel",
@@ -7,14 +7,14 @@
         "middleware",
         "tracing"
     ],
-    "homepage": "https://github.com/ajaaleixo/laravel-middleware-correlation-id",
+    "homepage": "https://github.com/ewawiktor/laravel-middleware-correlation-id",
     "require": {
         "php" : ">=8.0",
         "webpatser/laravel-uuid": "^4.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^7.0",
-        "orchestra/testbench": "^3.6",
+        "phpunit/phpunit": "^9.0",
+        "orchestra/testbench": "^6.9",
 	"codacy/coverage": "dev-master"
     },
     "license": "MIT",
